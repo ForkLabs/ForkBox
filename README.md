@@ -1,2 +1,2 @@
 # ForkBox
-A bare CMS for freelancers to built out to suit the needs of their clients.
+Moved to [dev.forklabs.us](https://dev.forklabs.us/forklabs/forkbox)
